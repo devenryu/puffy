@@ -34,14 +34,6 @@ export const timelineItems: TimelineItem[] = [
     instagramLink: "https://www.instagram.com/p/DFYH1y0NC4i/?img_index=2&igsh=MXFsZDB2cTNpcjdvaw==",
     fallbackImage: "/timeline3.jpg",
   },
-  {
-    year: "The Promise",
-    title: "Eco-Friendly Treats",
-    description:
-      "Because we love our planet as much as our pastries, we keep things eco-friendly: from packaging choices to kitchen habits, we try to make choices that are as kind to the Earth as they are to our taste buds.",
-    instagramLink: "https://www.instagram.com/reel/C_3XvUyoqOD/?igsh=MW12N2cwbm1qaTFjbg==",
-    fallbackImage: "/timeline4.jpg",
-  },
 ]
 
 // Instructions:
